@@ -1,17 +1,20 @@
 # BankingMicroservice
+
 :hammer_and_wrench: SETTING UP JENKINS
-1172  systemctl status jenkins
-1173  apt-get  update
-1174  apt-get  install  openjdk-8-jdk
-1175  java -version
-1176  wget -qO - https://pkg.jenkins.io/debian-stable/jenkins.io.key | apt-key add -
-1177  sudo sh -c 'echo deb http://pkg.jenkins.io/debian-stable binary/ > /etc/apt/sources.list.d/jenkins.list'
-1178  sudo apt-get update
-1179  sudo apt-get install jenkins
-1180  systemctl status jenkins
-1181  sudo ufw allow 8080
-1182  vi /etc/sudoers
-1190  cat /var/lib/jenkins/secrets/initialAdminPassword
+systemctl status jenkins
+apt-get  update
+apt-get  install  openjdk-8-jdk
+java -version
+wget -qO - https://pkg.jenkins.io/debian-stable/jenkins.io.key | apt-key add -
+sudo sh -c 'echo deb http://pkg.jenkins.io/debian-stable binary/ > /etc/apt/sources.list.d/jenkins.list'
+sudo apt-get update
+sudo apt-get install jenkins
+systemctl status jenkins
+sudo ufw allow 8080
+vi /etc/sudoers
+cat /var/lib/jenkins/secrets/initialAdminPassword
+
+
 1194  git --version
 1201  apt purge git -y
 1202  add-apt-repository ppa:git-core/ppa
