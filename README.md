@@ -1,4 +1,5 @@
 # BankingMicroservice
+:hammer_and_wrench: SETTING UP JENKINS
 1172  systemctl status jenkins
 1173  apt-get  update
 1174  apt-get  install  openjdk-8-jdk
