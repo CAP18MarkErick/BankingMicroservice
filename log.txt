@@ -1,3 +1,76 @@
+commit 1ade3e162f0480edf0f75502d557b1070efc3c6d
+Merge: 521bfad fa4340d
+Author: CAP18MarkErick <lolify13@gmail.com>
+Date:   Fri Jan 21 10:06:25 2022 +0000
+
+    Merge branch 'dev2'
+
+commit 521bfad9eaa61a16c13b213da866f973bedb3529
+Author: CAP18MarkErick <lolify13@gmail.com>
+Date:   Fri Jan 21 10:05:12 2022 +0000
+
+    commit by dev1
+
+commit fa4340dfedf2a6f7f671cba7f9596187d9fc4436
+Author: CAP18MarkErick <lolify13@gmail.com>
+Date:   Fri Jan 21 10:02:26 2022 +0000
+
+    commit by dev2
+
+commit d4605f88715b1d783a1339f23d83b8d444d31460
+Author: CAP18MarkErick <96167105+CAP18MarkErick@users.noreply.github.com>
+Date:   Fri Jan 21 17:54:24 2022 +0800
+
+    Update README.md
+
+commit 5823d49e96539a5550edb0b741c8644f78f6a573
+Author: CAP18MarkErick <96167105+CAP18MarkErick@users.noreply.github.com>
+Date:   Fri Jan 21 17:49:24 2022 +0800
+
+    Update README.md
+
+commit 60049a8b8906c618fa573254bae9b68d039128db
+Author: CAP18MarkErick <96167105+CAP18MarkErick@users.noreply.github.com>
+Date:   Fri Jan 21 17:46:20 2022 +0800
+
+    Update README.md
+
+commit a030f178251e4c2b1058386fc3c44b4ef1e1402c
+Author: CAP18MarkErick <96167105+CAP18MarkErick@users.noreply.github.com>
+Date:   Fri Jan 21 17:46:09 2022 +0800
+
+    Update README.md
+
+commit ddab8ca5bc387a1f433983b9b0ee2ea78b7f1751
+Author: CAP18MarkErick <96167105+CAP18MarkErick@users.noreply.github.com>
+Date:   Fri Jan 21 17:45:42 2022 +0800
+
+    Update README.md
+
+commit 3c8a189184aa89957f9116be8de714344429ffcc
+Author: CAP18MarkErick <96167105+CAP18MarkErick@users.noreply.github.com>
+Date:   Fri Jan 21 17:43:44 2022 +0800
+
+    Update README.md
+
+commit 11c21d149179f772febd700b2907ec9b7527e1ef
+Author: CAP18MarkErick <96167105+CAP18MarkErick@users.noreply.github.com>
+Date:   Fri Jan 21 17:43:02 2022 +0800
+
+    Update README.md
+
+commit 95161b6a1f413c4f554ad0af3e81407f12bf9305
+Author: CAP18MarkErick <lolify13@gmail.com>
+Date:   Fri Jan 21 09:38:38 2022 +0000
+
+    sample.txt deleted
+
+commit 22134e570f9f2375d8f808b0aa445ce32969e46a
+Author: CAP18MarkErick <lolify13@gmail.com>
+Date:   Fri Jan 21 09:37:28 2022 +0000
+
+    Logs updated
+
 commit 7763c5bedb1e5d96673a6f66f67d6d5c844e9b74
 Author: CAP18MarkErick <lolify13@gmail.com>
 Date:   Fri Jan 21 09:33:27 2022 +0000
