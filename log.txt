@@ -1,0 +1,23 @@
+commit be69426d73bf8fe64a24ab0163350b7f6894f45e
+Author: CAP18MarkErick <lolify13@gmail.com>
+Date:   Fri Jan 21 08:54:37 2022 +0000
+
+    sample add
+
+commit cdf7ad8c35677d1e276b5a76b6c0a37ff48cb444
+Author: CAP18MarkErick <lolify13@gmail.com>
+Date:   Fri Jan 21 08:52:25 2022 +0000
+
+    Banking Microservice project
+
+commit cc27e315c967e663795d40b179aed2798b2101a3
+Author: CAP18MarkErick <96167105+CAP18MarkErick@users.noreply.github.com>
+Date:   Fri Jan 21 16:48:55 2022 +0800
+
+    Create sample.txt
+
+commit b51dc782619ade475f16338a2c8e331da6719ef2
+Author: CAP18MarkErick <96167105+CAP18MarkErick@users.noreply.github.com>
+Date:   Fri Jan 21 16:14:49 2022 +0800
+
+    Initial commit
