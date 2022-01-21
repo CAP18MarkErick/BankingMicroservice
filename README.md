@@ -27,6 +27,7 @@ cd BankingMicroservice <br />
 apt update <br /> 
 apt install maven -y <br /> 
 mvn --version <br />
+mvn archetype:generate <br /> 
 cd capstone <br /> 
 mvn compile <br /> 
 mvn clean <br />
