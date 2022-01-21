@@ -14,38 +14,42 @@ sudo ufw allow 8080 <br />
 vi /etc/sudoers <br /> 
 cat /var/lib/jenkins/secrets/initialAdminPassword <br />
 
+:hammer_and_wrench: <b>SETTING UP GIT</b> <br /> <br />
+git --version <br />
+apt purge git -y <br />
+add-apt-repository ppa:git-core/ppa <br />
+apt update <br />
+apt install git <br /> 
+git clone https://github.com/CAP18MarkErick/BankingMicroservice.git <br />
+cd BankingMicroservice <br />
 
-1194  git --version
-1201  apt purge git -y
-1202  add-apt-repository ppa:git-core/ppa
-1203  apt update
-1204  apt install git
-1205  git clone https://github.com/CAP18MarkErick/BankingMicroservice.git
-1208  cd BankingMicroservice
-1209  apt update
-1210  apt install maven -y
-1211  mvn --version
-1213  cd capstone
-1215  mvn compile
-1241  mvn clean
-1242  mvn package
-1269  git pull origin master
-1272  git add .
-1273  git status
-1274  git commit -m "Banking Microservice project"
-1275  git config --global user.name CAP18MarkErick
-1276  git commit -m "Banking Microservice project"
-1277  git push origin master
-1284  git config --global credential.helper store
-1285  git config --global credential.helper cache
-1291  ssh-keygen
-1292  cat /root/.ssh/id_rsa.pub
-1293  git push
-1297  git --no-pager log > log.txt
-1298  ls
-1299  cat log.txt
-1300  git rm 1.txt 2.txt
-1301  git commit -m "1.txt and 2.txt deleted"
-1302  git push
+:hammer_and_wrench: <b>INSTALLING MAVEN PROJECT</b> <br /> <br />
+apt update <br /> 
+apt install maven -y <br /> 
+mvn --version <br />
+cd capstone <br /> 
+mvn compile <br /> 
+mvn clean <br />
+mvn package <br />
+
+:hammer_and_wrench: <b>GIT COMMANDS</b> <br /> <br />
+git pull origin master <br />
+git add . <br />
+git status <br />
+git commit -m "Banking Microservice project" <br />
+git config --global user.name CAP18MarkErick <br />
+git commit -m "Banking Microservice project" <br />
+git push origin master <br />
+git config --global credential.helper store <br />
+git config --global credential.helper cache <br />
+ssh-keygen <br /> 
+cat /root/.ssh/id_rsa.pub <br />
+git push <br />
+git --no-pager log > log.txt <br />
+ls <br />
+cat log.txt <br />
+git rm 1.txt 2.txt <br />
+git commit -m "1.txt and 2.txt deleted" <br />
+git push <br />
 
 
